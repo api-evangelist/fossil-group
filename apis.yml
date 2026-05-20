@@ -23,6 +23,8 @@ url: >-
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/fossil
   - type: Website
     name: Corporate Website
     url: https://www.fossilgroup.com
