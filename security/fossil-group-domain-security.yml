@@ -1,0 +1,32 @@
+generated: '2026-07-11'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: www.fossilgroup.com
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Aug 25 11:29:48 2026 GMT
+  hsts: null
+- host: www.fossil.com
+  https: true
+  tls_version: TLSv1.2
+  cert_expires: Aug 13 02:46:26 2026 GMT
+  hsts: null
+- host: www.skagen.com
+  https: true
+  tls_version: TLSv1.2
+  cert_expires: Aug 13 02:01:49 2026 GMT
+  hsts: null
+domains:
+- domain: fossilgroup.com
+  dnssec: false
+  caa: []
+  spf: true
+  dmarc: true
+  dmarc_policy: reject
+- domain: fossil.com
+  dnssec: false
+  caa: []
+  spf: true
+  dmarc: true
+  dmarc_policy: reject

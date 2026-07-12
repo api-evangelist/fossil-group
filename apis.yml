@@ -24,6 +24,10 @@ url: >-
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/fossil-group-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/fossil-group-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/fossil
   - type: Website
