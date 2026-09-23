@@ -1,7 +1,9 @@
 ---
 title: Fossil BIG TIC campaign lifts recall 57% in beta - FOSL
 url: https://www.stocktitan.net/news/FOSL/in-mobi-launches-ad-experiences-with-fossil-as-first-brand-fxjo8szlrl37.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Fossil Group" press release artificial intelligence'
 position: 2
 source: serpapi-google

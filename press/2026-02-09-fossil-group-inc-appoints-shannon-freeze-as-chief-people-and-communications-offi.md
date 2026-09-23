@@ -2,7 +2,9 @@
 title: FOSSIL Group, Inc. Appoints Shannon Freeze as Chief People and Communications
   Officer
 url: https://www.fossilgroup.com/fossil-group-inc-appoints-shannon-freeze-as-chief-people-and-communications-officer/
-date: '2026-02-09'
+published: ''
+date_basis: harvested
+harvested: '2026-02-09'
 author: Laura DeLoach
 feed_url: http://www.fossilgroup.com/news/feed
 ---

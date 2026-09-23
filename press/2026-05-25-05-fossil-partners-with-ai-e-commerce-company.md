@@ -1,7 +1,9 @@
 ---
 title: Fossil Partners with AI E-Commerce Company ...
 url: https://metric.al/blog/fossil-partners-with-ai-e-commerce-company-metrical-to-boost-revenue-and-maintain-margins/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Fossil Group" press release artificial intelligence'
 position: 5
 source: serpapi-google

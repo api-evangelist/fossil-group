@@ -1,7 +1,9 @@
 ---
 title: Fossil Group, | FOSL Stock Price, Company Overview & ...
 url: https://www.forbes.com/companies/fossil-group/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Fossil Group" press release artificial intelligence'
 position: 3
 source: serpapi-google
