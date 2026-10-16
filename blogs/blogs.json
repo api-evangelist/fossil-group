@@ -1,0 +1,18 @@
+{
+  "repo": "fossil-group",
+  "feeds": [
+    {
+      "source": "https://www.fossilgroup.com/news/",
+      "feed_url": "https://www.fossilgroup.com/news/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://www.fossilgroup.com/feed/",
+      "error": "HTTPError"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-10-10T13:15:00Z"
+}
